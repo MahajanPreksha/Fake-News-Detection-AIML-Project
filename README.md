@@ -12,6 +12,7 @@ By developing robust detection algorithms and deploying user-friendly applicatio
 The project uses an Amalgamation of two CSV files as one dataset.
 - First CSV file contains a collection of Fake News.
 - Second CSV file contains a collection of True News.
+
 The dataset has been taken from [here](https://www.kaggle.com/datasets/jainpooja/fake-news-detection/data).
 
 ### Methodology
